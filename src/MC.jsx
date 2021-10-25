@@ -31,7 +31,7 @@ margin : ' 0% 35% '
 
     return (
         <div >
-        <img src={"https://image.tmdb.org/t/p/w500" + props.value.poster_path} alt="" style={image}  />
+        <img src={"https://image.tmdb.org/t/p/w500" + props.value.poster_path} alt="Not found" style={image}  />
         <h3 style={h1} >{props.value.title}</h3>
         <br />
         <p style={para}>IMDB - {props.value.vote_average}

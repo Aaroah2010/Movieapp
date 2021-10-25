@@ -1,0 +1,13 @@
+let image = {
+    margin : '45%',
+    height : '200px',
+    width  : '100px'
+
+}
+let image = {
+    margin : '45%',
+    height : '200px',
+    width  : '100px'
+
+}
+style={image}
